@@ -18,73 +18,73 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   - Retrieve or not?
     - Rule-Baesd
     
-    - [Model-Based](#1.2.1.2)
+    - Model-Based
     
-  - [Enhance the quality of retriever](#1.2.2)
-    - [Enhancement before retrieval](#1.2.2.1)
+  - Enhance the quality of retriever
+    - Enhancement before retrieval
    
-    - [Enhancement in retrieval](#1.2.2.2)
+    - Enhancement in retrieval
    
-    - [Enhancement after retrieval](#1.2.2.3)
+    - Enhancement after retrieval
 
-  - [Enhance the quality of generator](#1.2.3)
+  - Enhance the quality of generator
 
 
-## [Applications Taxonomy](#2)
-### [Text Generation](#2.1)
-  - [Qusetion Answering](#2.1.1)
+## Applications Taxonomy
+### Text Generation
+  - Qusetion Answering
 
-  - [Fact verification](#2.1.2)
+  - Fact verification
 
-  - [Commonsense Reasoning](#2.1.3)
+  - Commonsense Reasoning
 
-  - [Human-Machine Conversation](#2.1.4)
+  - Human-Machine Conversation
 
-  - [Neural Machine Translation](#2.1.5)
+  - Neural Machine Translation
 
-  - [Event Extraction](#2.1.6)
+  - Event Extraction
 
-  - [Summarization](#2.1.7)
+  - Summarization
 
-### [Code](#2.2)
-  - [Code Generation](#2.2.1)
+### Code
+  - Code Generation
 
-  - [Code Summary](#2.2.2)
+  - Code Summary
 
-  - [Code Completion](#2.2.3)
+  - Code Completion
 
-  - [Automatic Program Repair](#2.2.4)
+  - Automatic Program Repair
 
-  - [Text-to-SQL and Code-based Semantic Parsing](#2.2.5)
+  - Text-to-SQL and Code-based Semantic Parsing
 
-  - [Others](#2.2.6)
+  - Others
 
-### [Audio](#2.3)
-  - [Audio Generation](#2.3.1)
+### Audio
+  - Audio Generation
 
-  - [Audio Captioning](#2.3.2)
+  - Audio Captioning
 
-### [Image](#2.4)
-  - [Image Generation](#2.4.1)
+### Image
+  - Image Generation
 
-  - [Image Captioning](#2.4.2)
+  - Image Captioning
 
-### [Video](#2.5)
-  - [Video Captioning](#2.5.1)
+### Video
+  - Video Captioning
 
-  - [Video Generation](#2.5.2)
+  - Video Generation
 
-### [3D](#2.6)
-  - [Text-to-3D](#2.6.1)
+### 3D
+  - Text-to-3D
 
-### [Knowledge](#2.7)
-  - [Knowledge Base Question Answering](#2.7.1)
+### Knowledge
+  - Knowledge Base Question Answering
 
-  - [Knowledge Graph Completion](#2.7.2)
+  - Knowledge Graph Completion
 
-### [AI4S](#2.8)
+### AI4S
 
-## [Benchmark](#3)
+## Benchmark
   [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://doi.org/10.48550/arXiv.2309.01431)
   
   [CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models](https://doi.org/10.48550/arXiv.2401.17043)
