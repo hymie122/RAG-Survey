@@ -82,6 +82,13 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - [Knowledge Graph Completion](#2.7.2)
 
-### [AI4S]
+### [AI4S](#2.8)
 
 ## [Benchmark](#3)
+  [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://doi.org/10.48550/arXiv.2309.01431)
+  
+  [CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models](https://doi.org/10.48550/arXiv.2401.17043)
+  
+  [ARES: An Automated Evaluation Framework for Retrieval-AugmentedGeneration Systems](https://doi.org/10.48550/arXiv.2311.09476)
+  
+  [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2309.15217)
