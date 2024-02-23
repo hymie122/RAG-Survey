@@ -3,5 +3,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 # Overview
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG_overview.png">
 
-#Catalogue
+# Catalogue
 ## [Methods Taxonomy] (#1)
+### [Augmentation](#1.1)
+  - [Prompt Augmentation](#1.1.1)
