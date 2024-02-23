@@ -92,3 +92,9 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   [ARES: An Automated Evaluation Framework for Retrieval-AugmentedGeneration Systems](https://doi.org/10.48550/arXiv.2311.09476)
   
   [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2309.15217)
+
+## Citing
+if you find this work useful, please cite our paper:
+```
+
+```
