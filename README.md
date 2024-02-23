@@ -94,8 +94,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2309.15217)
 
 
+## Citing
+if you find this work useful, please cite our paper:
 ```
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=denoland/deno&type=Date)](https://star-history.com/#denoland/deno)
+```
+
 
