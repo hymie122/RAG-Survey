@@ -5,7 +5,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
 # Catalogue
 ## Methods Taxonomy
-### [Augmentation](#1.1)
+### Augmentation
   - [Prompt Augmentation](#1.1.1)
 
   - [Attention Augmentation](#1.1.2)
