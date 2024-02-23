@@ -28,3 +28,60 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     - [Enhancement after retrieval](#1.2.2.3)
 
   - [Enhance the quality of generator](#1.2.3)
+
+
+## [Applications Taxonomy](#2)
+### [Text Generation](#2.1)
+  - [Qusetion Answering](#2.1.1)
+
+  - [Fact verification](#2.1.2)
+
+  - [Commonsense Reasoning](#2.1.3)
+
+  - [Human-Machine Conversation](#2.1.4)
+
+  - [Neural Machine Translation](#2.1.5)
+
+  - [Event Extraction](#2.1.6)
+
+  - [Summarization](#2.1.7)
+
+### [Code](#2.2)
+  - [Code Generation](#2.2.1)
+
+  - [Code Summary](#2.2.2)
+
+  - [Code Completion](#2.2.3)
+
+  - [Automatic Program Repair](#2.2.4)
+
+  - [Text-to-SQL and Code-based Semantic Parsing](#2.2.5)
+
+  - [Others](#2.2.6)
+
+### [Audio](#2.3)
+  - [Audio Generation](#2.3.1)
+
+  - [Audio Captioning](#2.3.2)
+
+### [Image](#2.4)
+  - [Image Generation](#2.4.1)
+
+  - [Image Captioning](#2.4.2)
+
+### [Video](#2.5)
+  - [Video Captioning](#2.5.1)
+
+  - [Video Generation](#2.5.2)
+
+### [3D](#2.6)
+  - [Text-to-3D](#2.6.1)
+
+### [Knowledge](#2.7)
+  - [Knowledge Base Question Answering](#2.7.1)
+
+  - [Knowledge Graph Completion](#2.7.2)
+
+### [AI4S]
+
+## [Benchmark](#3)
