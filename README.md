@@ -8,15 +8,15 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### Augmentation
   - Prompt Augmentation
 
-  - [Attention Augmentation](#1.1.2)
+  - Attention Augmentation
 
-  - [Answer Augmentation](#1.1.3)
+  - Answer Augmentation
 
-  - [Speculative RAG](#1.1.4)
+  - Speculative RAG
 
-### [Improvment](#1.2)
-  - [Retrieve or not?](#1.2.1)
-    - [Rule-Baesd](#1.2.1.1)
+### Improvment
+  - Retrieve or not?
+    - Rule-Baesd
     
     - [Model-Based](#1.2.1.2)
     
