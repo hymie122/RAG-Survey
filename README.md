@@ -6,6 +6,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 # Catalogue
 ## Methods Taxonomy
 ### RAG Foundations
+<div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG Foundations.png">
+
   - Query-based RAG
     
   - Latent Representation-based RAG
@@ -15,6 +17,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   - Speculative RAG
 
 ### RAG Enhancements
+<div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG Enhancements.png">
+
   - Input Enhancement
     
     - Query Transformations
@@ -62,6 +66,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
 
 ## Applications Taxonomy
+<div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/Applications.png">
+  
 ### RAG for Text
   - Qusetion Answering
 
