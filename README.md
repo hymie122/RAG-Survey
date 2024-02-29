@@ -67,7 +67,37 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### Image
   - Image Generation
 
+    [Retrievegan: Image synthesis via differentiable patch retrieval](https://arxiv.org/abs/2007.08513)
+
+    [Instance-conditioned gan](https://arxiv.org/abs/2109.05070)
+
+    [Memory-driven text-to-image generation](https://arxiv.org/abs/2208.07022)
+
+    [RE-IMAGEN: RETRIEVAL-AUGMENTED TEXT-TO-IMAGE GENERATOR](https://arxiv.org/abs/2209.14491)
+
+    [KNN-Diffusion: Image Generation via Large-Scale Retrieval](https://arxiv.org/abs/2204.02849)
+
+    [Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2204.11824)
+
+    [Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2207.13038)
+
+    [X&Fuse: Fusing Visual Information in Text-to-Image Generation](https://arxiv.org/abs/2303.01000)
+
   - Image Captioning
+
+    [Memory-augmented image captioning](https://ojs.aaai.org/index.php/AAAI/article/view/16220)
+
+    [Retrieval-enhanced adversarial training with dynamic memory-augmented attention for image paragraph captioning](https://www.sciencedirect.com/science/article/pii/S0950705120308595)
+
+    [Retrieval-Augmented Transformer for Image Captioning](https://arxiv.org/abs/2207.13162)
+
+    [Retrieval-augmented image captioning](https://arxiv.org/abs/2302.08268)
+
+    [Reveal: Retrieval-augmented visual-language pre-training with multi-source multimodal knowledge memory](https://arxiv.org/abs/2212.05221)
+
+    [SmallCap: Lightweight Image Captioning Prompted With Retrieval Augmentation](https://arxiv.org/abs/2209.15323)
+
+    [Cross-Modal Retrieval and Semantic Refinement for Remote Sensing Image Captioning](https://www.mdpi.com/2072-4292/16/1/196)
 
 ### Video
   - Video Captioning
