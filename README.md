@@ -52,9 +52,9 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)
 
-      [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](LM-Cocktail: Resilient Tuning of Language Models via Model Merging)
+      [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](https://arxiv.org/abs/2311.13534)
 
-      [Retrieve Anything To Augment Large Language Models](Retrieve Anything To Augment Large Language Models)
+      [Retrieve Anything To Augment Large Language Models](https://arxiv.org/abs/2310.07554)
    
     - Hybrid Retrieve
    
