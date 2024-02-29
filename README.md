@@ -26,17 +26,35 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   - Input Enhancement
     
     - Query Transformations
+      
+      [Query2doc: Query Expansion with Large Language Models](https://aclanthology.org/2023.emnlp-main.585)
 
+      [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://doi.org/10.18653/v1/2023.acl-long.99)
     - Data Augmentation
+
+      [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
+
   - Retriever Enhancement
     
     - Recursive Retrieve
+
+      [Query Expansion by Prompting Large Language Models](https://doi.org/10.48550/arXiv.2305.03653)
+
+      [Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search](https://aclanthology.org/2023.findings-emnlp.86)
       
     - Chunk Optimization
-   
-    - Enhance Embedding
-   
+
+      [LlamaIndex](https://github.com/jerryjliu/llama_index)
+      
     - Finetune Retriever
+
+      [C-Pack: Packaged Resources To Advance General Chinese Embedding](https://arxiv.org/abs/2309.07597)
+
+      [BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)
+
+      [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](LM-Cocktail: Resilient Tuning of Language Models via Model Merging)
+
+      [Retrieve Anything To Augment Large Language Models](Retrieve Anything To Augment Large Language Models)
    
     - Hybrid Retrieve
    
