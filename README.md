@@ -12,6 +12,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   - Query-based RAG
     
     [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+    
     [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
   - Latent Representation-based RAG
 
