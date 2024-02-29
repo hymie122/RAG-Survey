@@ -5,33 +5,64 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
 # Catalogue
 ## Methods Taxonomy
-### Augmentation
-  - Prompt Augmentation
+### RAG Foundations
+  - Query-based RAG
+    
+  - Latent Representation-based RAG
 
-  - Attention Augmentation
-
-  - Answer Augmentation
+  - Logit-based RAG
 
   - Speculative RAG
 
-### Improvment
-  - Retrieve or not?
-    - Rule-Baesd
+### RAG Enhancements
+  - Input Enhancement
     
-    - Model-Based
-    
-  - Enhance the quality of retriever
-    - Enhancement before retrieval
-   
-    - Enhancement in retrieval
-   
-    - Enhancement after retrieval
+    - Query Transformations
 
-  - Enhance the quality of generator
+    - Data Augmentation
+  - Retriever Enhancement
+    
+    - Recursive Retrieve
+      
+    - Chunk Optimization
+   
+    - Enhance Embedding
+   
+    - Finetune Retriever
+   
+    - Hybrid Retrieve
+   
+    - Re-ranking
+   
+    - Meta-data Filtering
+  - Generator Enhancement
+
+    - Prompt Engineering
+   
+    - Decoding Tuning
+   
+    - Finetune Generator
+   
+  - Result Enhancement
+
+    - Rewrite Output
+
+  - RAG Pipeline Enhancement
+    
+    - Adaptive Retrieval
+      
+      - Rule-Baesd
+    
+      - Model-Based
+   
+    - Iterative RAG
+
+    
+    
 
 
 ## Applications Taxonomy
-### Text Generation
+### RAG for Text
   - Qusetion Answering
 
   - Fact verification
@@ -46,7 +77,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Summarization
 
-### Code
+### RAG for Code
   - Code Generation
 
   - Code Summary
@@ -59,12 +90,12 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Others
 
-### Audio
+### RAG for Audio
   - Audio Generation
 
   - Audio Captioning
 
-### Image
+### RAG for Image
   - Image Generation
 
     [Retrievegan: Image synthesis via differentiable patch retrieval](https://arxiv.org/abs/2007.08513)
@@ -99,20 +130,20 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Cross-Modal Retrieval and Semantic Refinement for Remote Sensing Image Captioning](https://www.mdpi.com/2072-4292/16/1/196)
 
-### Video
+### RAG for Video
   - Video Captioning
 
   - Video Generation
 
-### 3D
+### RAG for 3D
   - Text-to-3D
 
-### Knowledge
+### RAG for Knowledge
   - Knowledge Base Question Answering
 
   - Knowledge Graph Completion
 
-### AI4S
+### RAG for Science
   - Drug Discovery
     
     [Retrieval-based controllable molecule generation](https://arxiv.org/abs/2208.11126)
