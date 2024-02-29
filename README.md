@@ -85,17 +85,17 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### AI4S
   - Drug Discovery
     
-    [Retrieval-based controllable molecule generation](https://arxiv.org/pdf/2208.11126.pdf)
+    [Retrieval-based controllable molecule generation](https://arxiv.org/abs/2208.11126)
     
-    [Prompt-based 3d molecular diffusion models for structure-based drug design](https://openreview.net/pdf?id=FWsGuAFn3n)
+    [Prompt-based 3d molecular diffusion models for structure-based drug design](https://openreview.net/forum?id=FWsGuAFn3n)
     
-    [A protein-ligand interaction- focused 3d molecular generative framework for generalizable structure- based drug design](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6482d9dbbe16ad5c57af1937/original/a-protein-ligand-interaction-focused-3d-molecular-generative-framework-for-generalizable-structure-based-drug-design.pdf)
+    [A protein-ligand interaction- focused 3d molecular generative framework for generalizable structure- based drug design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
     
   - Medical Applications
     
     [Genegpt: Augmenting large language models with domain tools for improved access to biomedical information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/)
     
-    [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/pdf/10.1145/3584371.3612956)
+    [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/abs/10.1145/3584371.3612956)
 
 ## Benchmark
   [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://doi.org/10.48550/arXiv.2309.01431)
