@@ -95,6 +95,28 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     - Prompt Engineering
    
+      [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+      [Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models](https://doi.org/10.48550/arXiv.2310.06117)
+
+      [Active Prompting with Chain-of-Thought for Large Language Models](https://doi.org/10.48550/arXiv.2302.12246)
+
+      [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](http://papers.nips.cc/paper\_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)
+
+      [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825)
+
+      [Lost in the Middle: How Language Models Use Long Contexts](https://doi.org/10.48550/arXiv.2307.03172)
+
+      [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://doi.org/10.1109/ICCV51070.2023.00040)
+
+      [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://arxiv.org/abs/2304.06815)
+
+      [Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning](https://doi.org/10.1109/ICSE48619.2023.00205)
+
+      [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
+
+      [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
+   
     - Decoding Tuning
    
     - Finetune Generator
