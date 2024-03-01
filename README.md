@@ -55,6 +55,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](https://arxiv.org/abs/2311.13534)
 
       [Retrieve Anything To Augment Large Language Models](https://arxiv.org/abs/2310.07554)
+
+      [Replug: Retrieval-augmented black-box language models](https://arxiv.org/abs/2301.12652)
    
     - Hybrid Retrieve
    
