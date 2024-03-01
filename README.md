@@ -290,11 +290,31 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Code Completion
 
+    [ReACC: A Retrieval-Augmented Code Completion Framework](https://doi.org/10.18653/v1/2022.acl-long.431)
+
+    [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151)
+
+    [CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context](https://doi.org/10.48550/arXiv.2212.10007)
+
   - Automatic Program Repair
+
+    [Repair Is Nearly Generation: Multilingual Program Repair with LLMs](https://doi.org/10.1609/aaai.v37i4.25642)
+
+    [Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning](https://doi.org/10.1109/ICSE48619.2023.00205)
+
+    [InferFix: End-to-End Program Repair with LLMs](https://doi.org/10.1145/3611643.3613892)
 
   - Text-to-SQL and Code-based Semantic Parsing
 
+    [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
+
+    [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
+
+    [Leveraging Code to Improve In-context Learning for Semantic Parsing](https://arxiv.org/abs/2311.09519)
+
   - Others
+
+    [Leveraging training data in few-shot prompting for numerical reasoning](https://arxiv.org/abs/2305.18170)
 
 ### RAG for Audio
   - Audio Generation
