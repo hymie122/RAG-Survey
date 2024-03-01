@@ -89,6 +89,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
    
     - Meta-data Filtering
+
+      [PineCone](https://www.pinecone.io)
   - Generator Enhancement
 
     - Prompt Engineering
