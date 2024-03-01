@@ -1,5 +1,5 @@
 # Retrieval-Augmented Generation for AI-Generated Content: A Survey
-This repo is constructed for collecting and categorizing papers about RAG according to our survey paper: [*Retrieval-Augmented Generation for AI-Generated Content: A Survey*](https://arxiv.org/abs/2402.19473). Considering the rapid growth of this field, we will continue to update both arxiv paper and this repo.
+This repo is constructed for collecting and categorizing papers about RAG according to our survey paper: [*Retrieval-Augmented Generation for AI-Generated Content: A Survey*](https://arxiv.org/abs/2402.19473). Considering the rapid growth of this field, we will continue to update both [paper]((https://arxiv.org/abs/2402.19473)) and this repo.
 
 # Overview
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG_Overview.jpg">
