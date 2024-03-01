@@ -172,7 +172,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
         [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://aclanthology.org/2023.findings-emnlp.691)
    
     - Iterative RAG
+   
+      [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151)
 
+      [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620)
     
     
 
