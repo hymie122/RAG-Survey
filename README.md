@@ -214,9 +214,23 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Fact verification
 
+    [CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86)
+
   - Commonsense Reasoning
 
+    [KG-BART: Knowledge Graph-Augmented {BART} for Generative Commonsense Reasoning](https://doi.org/10.1609/aaai.v35i7.16796)
+
   - Human-Machine Conversation
+
+    [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://doi.org/10.18653/v1/2020.acl-main.184)
+
+    [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://doi.org/10.18653/v1/n19-1124)
+
+    [Internet-Augmented Dialogue Generation](https://doi.org/10.18653/v1/2022.acl-long.579)
+
+    [BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage](https://doi.org/10.48550/arXiv.2208.03188)
+
+    [A Model of Cross-Lingual Knowledge-Grounded Response Generation for Open-Domain Dialogue Systems](https://doi.org/10.18653/v1/2021.findings-emnlp.33)
 
   - Neural Machine Translation
 
