@@ -19,7 +19,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652)
 
-[In-Context Retrieval-Augmented Language Models]((https://arxiv.org/abs/2302.00083))
+      [In-Context Retrieval-Augmented Language Models](https://arxiv.org/abs/2302.00083)
 
 
 
