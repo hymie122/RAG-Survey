@@ -124,10 +124,18 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
 
       [A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
-
-      
    
     - Finetune Generator
+   
+      [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
+
+      [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
+
+      [Concept-Aware Video Captioning: Describing Videos With Effective Prior Information](https://doi.org/10.1109/TIP.2023.3307969)
+
+      [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
+
+      [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
    
   - Result Enhancement
 
