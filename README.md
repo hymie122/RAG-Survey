@@ -67,6 +67,16 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Retrieval Augmented Convolutional Encoder-decoder Networks for Video Captioning](https://doi.org/10.1145/3539225)
    
     - Hybrid Retrieve
+
+      [RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair](https://doi.org/10.1145/3611643.3616256)
+
+      [ReACC: A Retrieval-Augmented Code Completion Framework](https://doi.org/10.18653/v1/2022.acl-long.431)
+
+      [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
+
+      [BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT](https://doi.org/10.1109/ICSME55016.2022.00016)
+
+      [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
    
     - Re-ranking
    
