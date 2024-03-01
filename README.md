@@ -371,15 +371,37 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Video
   - Video Captioning
 
+    [Retrieval Augmented Convolutional Encoder-decoder Networks for Video Captioning](https://doi.org/10.1145/3539225)
+
+    [Concept-Aware Video Captioning: Describing Videos With Effective Prior Information](https://doi.org/10.1109/TIP.2023.3307969)
+
   - Video Generation
+
+    [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
+
+    [Frozen in Time: {A} Joint Video and Image Encoder for End-to-End Retrieval](https://doi.org/10.1109/ICCV48922.2021.00175)
 
 ### RAG for 3D
   - Text-to-3D
 
+    [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://doi.org/10.1109/ICCV51070.2023.00040)
+
+    [AMD: Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion](https://arxiv.org/abs/2312.12763)
+
+    [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
+
 ### RAG for Knowledge
   - Knowledge Base Question Answering
 
+    [ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering](https://doi.org/10.18653/v1/2021.acl-demo.39)
+
+    [Case-based Reasoning for Natural Language Queries over Knowledge Bases](https://doi.org/10.18653/v1/2021.emnlp-main.755)
+
+    [Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases](https://aclanthology.org/2022.coling-1.145)
+
   - Knowledge Graph Completion
+
+    [Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion](https://doi.org/10.1145/3539618.3592052)
 
 ### RAG for Science
   - Drug Discovery
