@@ -319,7 +319,19 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Audio
   - Audio Generation
 
+    [Retrieval-Augmented Text-to-Audio Generation](https://doi.org/10.48550/arXiv.2309.08051)
+
+    [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
+
+    [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
+
   - Audio Captioning
+
+    [RECAP: Retrieval-Augmented Audio Captioning](https://doi.org/10.48550/arXiv.2309.09836)
+
+    [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
+
+    [CNN architectures for large-scale audio classification](https://doi.org/10.1109/ICASSP.2017.7952132)
 
 ### RAG for Image
   - Image Generation
