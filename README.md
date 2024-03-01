@@ -140,6 +140,12 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   - Result Enhancement
 
     - Rewrite Output
+   
+      [Automated Code Editing with Search-Generate-Modify](https://doi.org/10.48550/arXiv.2306.06490)
+
+      [Repair Is Nearly Generation: Multilingual Program Repair with LLMs](https://doi.org/10.1609/aaai.v37i4.25642)
+
+      [Case-based Reasoning for Natural Language Queries over Knowledge Bases](https://doi.org/10.18653/v1/2021.emnlp-main.755)
 
   - RAG Pipeline Enhancement
     
