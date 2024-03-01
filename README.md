@@ -79,6 +79,14 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
    
     - Re-ranking
+
+      [Re2G: Retrieve, Rerank, Generate](https://doi.org/10.18653/v1/2022.naacl-main.194)
+
+      [Passage Re-ranking with BERT](http://arxiv.org/abs/1901.04085)
+
+      [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)
+
+      [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
    
     - Meta-data Filtering
   - Generator Enhancement
