@@ -118,6 +118,14 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
    
     - Decoding Tuning
+
+      [InferFix: End-to-End Program Repair with LLMs](https://doi.org/10.1145/3611643.3613892)
+
+      [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
+
+      [A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
+
+      
    
     - Finetune Generator
    
