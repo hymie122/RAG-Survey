@@ -274,7 +274,19 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Code
   - Code Generation
 
+    [Retrieval Augmented Code Generation and Summarization](https://doi.org/10.18653/v1/2021.findings-emnlp.232)
+
+    [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
+
+    [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)
+
   - Code Summary
+
+    [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
+
+    [Retrieve and Refine: Exemplar-based Neural Comment Generation](https://doi.org/10.1145/3324884.3416578)
+
+    [RACE: Retrieval-augmented Commit Message Generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
 
   - Code Completion
 
