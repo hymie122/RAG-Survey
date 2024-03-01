@@ -17,6 +17,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
 
+    [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652)
 
 
 
