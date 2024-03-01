@@ -186,6 +186,32 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Text
   - Qusetion Answering
 
+    [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://doi.org/10.18653/v1/2021.eacl-main.74)
+
+    [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+
+    [Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training](https://doi.org/10.18653/v1/2021.naacl-main.278)
+
+    [Atlas: Few-shot Learning with Retrieval Augmented Language Models](http://jmlr.org/papers/v24/23-0037.html)
+
+    [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
+
+    [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://aclanthology.org/2023.findings-emnlp.691)
+
+    [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering](https://doi.org/10.48550/arXiv.2306.04136)
+
+    [Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph](https://doi.org/10.48550/arXiv.2307.07697)
+
+    [Nonparametric Masked Language Modeling](https://doi.org/10.18653/v1/2023.findings-acl.132)
+
+    [CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering](https://doi.org/10.18653/v1/2022.findings-naacl.165)
+
+    [One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval](https://proceedings.neurips.cc/paper/2021/hash/3df07fdae1ab273a967aaa1d355b8bb6-Abstract.html)
+
+    [Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)
+
+    [When to Read Documents or QA History: On Unified and Selective Open-domain QA](https://doi.org/10.18653/v1/2023.findings-acl.401)
+
   - Fact verification
 
   - Commonsense Reasoning
