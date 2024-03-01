@@ -234,9 +234,21 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Neural Machine Translation
 
+    [Neural Machine Translation with Monolingual Translation Memory](https://doi.org/10.18653/v1/2021.acl-long.567)
+
+    [Nearest Neighbor Machine Translation](https://openreview.net/forum?id=7wCBOfJ8hJM)
+
+    [Training Language Models with Memory Augmentation](https://doi.org/10.18653/v1/2022.emnlp-main.382)
+
   - Event Extraction
 
+    [Retrieval-Augmented Generative Question Answering for Event Argument Extraction](https://doi.org/10.18653/v1/2022.emnlp-main.307)
+
   - Summarization
+
+    [Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training](https://doi.org/10.18653/v1/2022.findings-naacl.92)
+
+    [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://doi.org/10.48550/arXiv.2305.01625)
 
 ### RAG for Code
   - Code Generation
