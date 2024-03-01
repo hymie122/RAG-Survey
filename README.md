@@ -280,6 +280,12 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)
 
+    [CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://aclanthology.org/2023.emnlp-main.68)
+
+    [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)
+
+    [The impact of lexical and grammatical processing on generating code from natural language](https://doi.org/10.18653/v1/2022.findings-acl.173)
+
   - Code Summary
 
     [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
@@ -287,6 +293,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieve and Refine: Exemplar-based Neural Comment Generation](https://doi.org/10.1145/3324884.3416578)
 
     [RACE: Retrieval-augmented Commit Message Generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
+
+    [BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT](https://doi.org/10.1109/ICSME55016.2022.00016)
 
   - Code Completion
 
