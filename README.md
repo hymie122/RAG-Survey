@@ -439,7 +439,12 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ## Citing
 if you find this work useful, please cite our paper:
 ```
-
+@article{zhao2024ragaigc,
+  title={Retrieval-Augmented Generation for AI-Generated Content: A Survey},
+  author={Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Bin Cui},
+  journal={arXiv preprint arXiv:2402.19473},
+  year={2024}
+}
 ```
 
 
