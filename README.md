@@ -152,8 +152,24 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     - Adaptive Retrieval
       
       - Rule-Baesd
+     
+        [Active retrieval augmented generation](https://arxiv.org/abs/2305.06983)
+
+        [Efficient Nearest Neighbor Language Models](https://doi.org/10.18653/v1/2021.emnlp-main.461)
+
+        [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://doi.org/10.18653/v1/2023.acl-long.546)
+
+        [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://doi.org/10.1162/tacl\_a\_00407)
+
+        [Large Language Models Struggle to Learn Long-Tail Knowledge](https://proceedings.mlr.press/v202/kandpal23a.html)
     
       - Model-Based
+        
+        [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://doi.org/10.48550/arXiv.2310.11511)
+
+        [Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation](https://doi.org/10.48550/arXiv.2307.11019)
+
+        [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://aclanthology.org/2023.findings-emnlp.691)
    
     - Iterative RAG
 
