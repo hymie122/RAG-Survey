@@ -29,7 +29,17 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Logit-based RAG
 
+    [Syntax-Aware Retrieval Augmented Code Generation](https://aclanthology.org/2023.findings-emnlp.90)
+
+    [Memory-augmented image captioning](https://aaai.org/papers/01317-memory-augmented-image-captioning/)
+
+    [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
+
   - Speculative RAG
+
+    [REST: Retrieval-Based Speculative Decoding](https://doi.org/10.48550/arXiv.2311.08252)
+    
+    [GPTCache](https://github.com/zilliztech/GPTCache)
 
 ### RAG Enhancements
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG_Enhancements.png">
