@@ -57,6 +57,14 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Retrieve Anything To Augment Large Language Models](https://arxiv.org/abs/2310.07554)
 
       [Replug: Retrieval-augmented black-box language models](https://arxiv.org/abs/2301.12652)
+
+      [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
+
+      [EditSum: {A} Retrieve-and-Edit Framework for Source Code Summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
+
+      [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
+
+      [Retrieval Augmented Convolutional Encoder-decoder Networks for Video Captioning](https://doi.org/10.1145/3539225)
    
     - Hybrid Retrieve
    
