@@ -130,7 +130,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     
 
-    []()
+    [Generalization through memorization: Nearest neighbor language models](https://openreview.
+net/forum?id=HklBjCEKvH)
 
 
 
@@ -140,19 +141,18 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
 
-    []()
+    [Efficient nearest neighbor language models](https://doi.org/10.18653/v1/2021.emnlp-main.461)
 
-    []()
 
-    []()
 
-    []()
+    [Nonparametric masked language modeling](https://doi.org/10.18653/v1/2023.findings-acl.132)
 
-    []()
+    
 
-    []()
+    [Editsum:A retrieve-and-edit framework for source code summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
 
-    []()
+
+   
   - Speculative RAG
 
     [REST: Retrieval-Based Speculative Decoding](https://doi.org/10.48550/arXiv.2311.08252)
