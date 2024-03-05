@@ -39,6 +39,19 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Uni-parser: Unified semantic parser for question answering on knowledge base and database](https://doi.org/10.18653/v1/2022.emnlp-main.605)
 
 
+    [RNG-KBQA: generation augmented iterative ranking for knowledge base question answering](https://doi.org/10.18653/v1/2022.acl-long.417)
+
+    [End-to-end casebased reasoning for commonsense knowledge base completion](https://doi.org/10.18653/v1/2023.eacl-main.255)
+    
+    [Combining transfer learning with in-context learning using blackbox llms for zero-shot knowledge base question answering](https://doi.org/10.48550/arXiv.2311.08894)
+    
+    [Genegpt: Augmenting large language models with domain tools for improved access to biomedical information](https://arxiv.org/abs/2304.09667)
+    
+    [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/10.1145/3584371.3612956)
+    
+    [Retrievegan:Image synthesis via differentiable patch retrieval](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_15)
+    
+    [Instance-conditioned gan](https://proceedings.neurips.cc/paper/2021/file/e7ac288b0f2d41445904d071ba37aaff-Paper.pdf)
 
 
     [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
