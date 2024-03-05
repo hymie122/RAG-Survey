@@ -114,8 +114,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Mention memory: incorporating textual knowledge into transformers through entity mention attention](https://arxiv.org/abs/2110.06176)
 
-    [Unlimiformer:Long-range transformers with unlimited length input](https://doi.org/10.48550/
-arXiv.2305.01625)
+    [Unlimiformer:Long-range transformers with unlimited length input](https://doi.org/10.48550/arXiv.2305.01625)
 
     [Entities as experts: Sparse memory access with entity supervision](https://arxiv.org/abs/2004.07202)
 
