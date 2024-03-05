@@ -23,6 +23,21 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [When Language Model Meets Private Library](https://arxiv.org/abs/2210.17236)
     
+    [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)
+
+    [Retrieval-based prompt selection for code-related few-shot learning](https://doi.org/10.1109/ICSE48619.2023.00205)
+
+    [Inferfix: End-to-end program repair with llms](https://doi.org/10.1145/3611643.3613892)
+
+    [Make-an-audio: Text-to-audio generation with prompt-enhanced diffusion models](https://proceedings.mlr.press/v202/huang23i.html)
+
+    
+
+    [Reacc: A retrieval-augmented code completion framework](https://doi.org/10.18653/v1/2022.acl-long.431)
+
+
+    [Uni-parser: Unified semantic parser for question answering on knowledge base and database](https://doi.org/10.18653/v1/2022.emnlp-main.605)
+
 
 
 
