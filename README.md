@@ -58,15 +58,82 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
   - Latent Representation-based RAG
 
+    [Leveraging passage retrieval with generative models for open domain question answering](https://doi.org/10.18653/v1/2021.eacl-main.74)
+
+
+    [Bashexplainer: Retrieval-augmented bash code comment generation based on finetuned codebert](https://doi.org/10.1109/ICSME55016.2022.00016)
+
     [EditSum: A Retrieve-and-Edit Framework for Source Code Summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
+
+    [Retrieve and Refine: Exemplar-based Neural Comment Generation](https://arxiv.org/abs/2010.04459)
+    
+    [RACE: retrieval-augmented commit message generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
+
+    [Unik-qa: Unified representations of structured and unstructured knowledge for open-domain question answering](https://doi.org/10.18653/v1/2022.findings-naacl.115)
 
     [A Retrieve-and-Edit Framework for Predicting Structured Outputs](https://proceedings.neurips.cc/paper/2018/hash/cd17d3ce3b64f227987cd92cd701cc58-Abstract.html)
 
+    
+
     [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/pdf?id=XHc5zRPxqV9)
+
+    [Bridging the kb-text gap: Leveraging structured knowledge-aware pre-training for KBQA](https://doi.org/10.1145/3583780.3615150)
+
+    [Knowledge-driven cot: Exploring faithful reasoning in llms for knowledge-intensive question answering](https://doi.org/10.48550/arXiv.2308.13259)
+
+    [Retrieval-enhanced generative model for large-scale knowledge graph completion](https://doi.org/10.1145/3539618.3592052)
+
+    [Case-based reasoning for natural language queries over knowledge bases](https://doi.org/10.18653/v1/2021)
+
+   
 
     [A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
 
+    [Improving language models by retrieving from trillions of tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
+
+    [Remodiffuse: Retrieval-augmented motion diffusion model](https://doi.org/10.1109/ICCV51070.2023.00040)
+
+    [Memorizing transformers](https://openreview.net/forum?id=TrjbxzRcnf-)
+
+    [Audio captioning using pre-trained large-scale language model guided by audio-based similar caption retrieval](https://arxiv.org/abs/2012.07331)
+
+    [Retrieval augmented convolutional encoder-decoder networks for video captioning](https://doi.org/10.1145/3539225)
+
+    [Retrieval-augmented egocentric video captioning](https://doi.org/10.48550/arXiv.2401.00789)
+
+    [Re-imagen: Retrievalaugmented text-to-image generator](https://arxiv.org/abs/2209.14491)
+
+    [Knn-diffusion: Image generation via large-scale retrieval](https://arxiv.org/abs/2204.02849)
+
+    [Retrieval-augmented diffusion models](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)
+
+    [Text-guided synthesis of artistic images with retrieval-augmented diffusion models](https://arxiv.org/abs/2207.13038)
+    
+
+    [Memory-driven text-to-image generation](https://arxiv.org/abs/2208.07022)
+
+    [Mention memory: incorporating textual knowledge into transformers through entity mention attention](https://arxiv.org/abs/2110.06176)
+
+    [Unlimiformer:Long-range transformers with unlimited length input](https://doi.org/10.48550/
+arXiv.2305.01625)
+
+    [Entities as experts: Sparse memory access with entity supervision](https://arxiv.org/abs/2004.07202)
+
+    [Amd: Anatomical motion diffusion with interpretable motion decomposition and fusion](https://arxiv.org/abs/2312.12763)
+
+    [Retrieval-augmented text-to-audio generation](https://doi.org/10.48550/arXiv.2309.08051)
+
+    [Concept-aware video captioning: Describing videos with effective prior information](https://doi.org/10.1109/TIP.2023.3307969)
+
+
+
   - Logit-based RAG
+
+    
+
+    []()
+
+
 
     [Syntax-Aware Retrieval Augmented Code Generation](https://aclanthology.org/2023.findings-emnlp.90)
 
@@ -74,6 +141,19 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Retrieval-based neural source code summarization](https://doi.org/10.1145/3377811.3380383)
 
+    []()
+
+    []()
+
+    []()
+
+    []()
+
+    []()
+
+    []()
+
+    []()
   - Speculative RAG
 
     [REST: Retrieval-Based Speculative Decoding](https://doi.org/10.48550/arXiv.2311.08252)
