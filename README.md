@@ -130,8 +130,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     
 
-    [Generalization through memorization: Nearest neighbor language models](https://openreview.
-net/forum?id=HklBjCEKvH)
+    [Generalization through memorization: Nearest neighbor language models](https://openreview.net/forum?id=HklBjCEKvH)
 
 
 
