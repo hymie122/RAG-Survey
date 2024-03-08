@@ -395,11 +395,17 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
 
+    [Language Models of Code are Few-Shot Commonsense Learners](https://doi.org/10.18653/v1/2022.emnlp-main.90)
+
     [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/pdf?id=ZTCxT2t2Ru)
 
     [CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://aclanthology.org/2023.emnlp-main.68)
 
     [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)
+
+    [Retrieval-Based Neural Code Generation](https://doi.org/10.18653/v1/d18-1111)
+
+    [Syntax-Aware Retrieval Augmented Code Generation](https://aclanthology.org/2023.findings-emnlp.90)
 
     [The impact of lexical and grammatical processing on generating code from natural language](https://doi.org/10.18653/v1/2022.findings-acl.173)
 
@@ -409,9 +415,15 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Retrieve and Refine: Exemplar-based Neural Comment Generation](https://doi.org/10.1145/3324884.3416578)
 
+    [EditSum: A Retrieve-and-Edit Framework for Source Code Summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
+
+    [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
+
     [RACE: Retrieval-augmented Commit Message Generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
 
     [BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT](https://doi.org/10.1109/ICSME55016.2022.00016)
+
+    [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://arxiv.org/abs/2304.06815)
 
   - Code Completion
 
