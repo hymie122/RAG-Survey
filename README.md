@@ -158,6 +158,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [GPTCache](https://github.com/zilliztech/GPTCache)
 
+    [COPY IS ALL YOU NEED](https://arxiv.org/abs/2307.06962)
+
+    [RETRIEVAL IS ACCURATE GENERATION](https://arxiv.org/abs/2402.17532)
+
 ### RAG Enhancements
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG_Enhancements.png">
 
@@ -387,6 +391,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training](https://doi.org/10.18653/v1/2022.findings-naacl.92)
 
     [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://doi.org/10.48550/arXiv.2305.01625)
+
+    [RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation](https://arxiv.org/abs/2312.10466)
 
 ### RAG for Code
   - Code Generation
