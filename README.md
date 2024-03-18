@@ -583,8 +583,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [A protein-ligand interaction- focused 3d molecular generative framework for generalizable structure- based drug design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
     
   - Medical Applications
-    
-    [Genegpt: Augmenting large language models with domain tools for improved access to biomedical information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/)
+
+    [PoET: A generative model of protein families as sequences-of-sequences](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4366126eba252699b280e8f93c0ab2f-Abstract-Conference.html)
     
     [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/abs/10.1145/3584371.3612956)
 
