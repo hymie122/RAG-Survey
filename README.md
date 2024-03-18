@@ -511,6 +511,19 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Cross-Modal Retrieval and Semantic Refinement for Remote Sensing Image Captioning](https://www.mdpi.com/2072-4292/16/1/196)
 
+  - Others
+    
+    [Retrieval augmented visual question answering with outside knowledge](https://aclanthology.org/2022.emnlp-main.772/)
+    
+    [An empirical study of gpt-3 for few-shot knowledge-based vqa](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
+    
+    [Augmenting transformers with KNN-based composite memory for dialog](https://doi.org/10.1162/tacl_a_00356)
+    
+    [Maria: A visual experience powered conversational agent](https://aclanthology.org/2021.acl-long.435/)
+    
+    [Neural machine translation with phrase-level universal visual representations](https://aclanthology.org/2022.acl-long.390/)
+
+
 ### RAG for Video
   - Video Captioning
 
@@ -523,6 +536,20 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
 
     [Frozen in Time: {A} Joint Video and Image Encoder for End-to-End Retrieval](https://doi.org/10.1109/ICCV48922.2021.00175)
+
+  - Others
+
+    [Memory augmented deep recurrent neural network for video question answering](https://doi.org/10.1109/TNNLS.2019.2938015)
+
+    [Retrieving-to-answer: Zero-shot video question answering with frozen large language models](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/html/Pan_Retrieving-to-Answer_Zero-Shot_Video_Question_Answering_with_Frozen_Large_Language_Models_ICCVW_2023_paper.html)
+    
+    [Tvqa+: Spatio-temporal grounding for video question answering](https://aclanthology.org/2020.acl-main.730/)
+    
+    [Vgnmn: Video-grounded neural module networks for video-grounded dialogue systems](https://aclanthology.org/2022.naacl-main.247/)
+    
+    [Language models with image descriptors are strong few-shot video-language learners](https://proceedings.neurips.cc/paper_files/paper/2022/hash/381ceeae4a1feb1abc59c773f7e61839-Abstract-Conference.html)
+    
+    [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
 
 ### RAG for 3D
   - Text-to-3D
