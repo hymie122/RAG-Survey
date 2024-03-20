@@ -386,6 +386,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [What Evidence Do Language Models Find Convincing?](https://arxiv.org/abs/2402.11782v1)
 
+    [Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models](https://arxiv.org/abs/2310.04027)
+
   - Human-Machine Conversation
 
     [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://doi.org/10.18653/v1/2020.acl-main.184)
@@ -401,6 +403,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL](https://openreview.net/forum?id=KLPLCXo4aD)
 
     [Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages](https://aclanthology.org/2023.findings-acl.528/)
+
+    [Citation-Enhanced Generation for LLM-based Chatbot](https://arxiv.org/pdf/2402.16063v1.pdf)
+
+    
 
     
 
