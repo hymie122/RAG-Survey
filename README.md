@@ -374,7 +374,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation](https://arxiv.org/abs/2311.04177)
 
-    [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Service](https://arxiv.org/pdf/2309.11325.pdf）
+    [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Service](https://arxiv.org/pdf/2309.11325.pdf)
 
   - Fact verification
 
