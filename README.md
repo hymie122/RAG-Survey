@@ -188,11 +188,15 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       
       [ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/abs/2402.13547)
 
+      [Retrieval-Augmented Thought Process as Sequential Decision Making](https://arxiv.org/abs/2402.07812)
+
       
       
     - Chunk Optimization
 
       [LlamaIndex](https://github.com/jerryjliu/llama_index)
+
+      [RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL](https://arxiv.org/pdf/2401.18059.pdf)
       
     - Finetune Retriever
 
@@ -239,6 +243,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
 
       [A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI Judge](https://arxiv.org/abs/2402.17081v1)
+
+      [UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers](https://arxiv.org/pdf/2303.00807.pdf)
+
+      [Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/pdf/2307.07164.pdf)
    
     - Meta-data Filtering
 
@@ -364,6 +372,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [When to Read Documents or QA History: On Unified and Selective Open-domain QA](https://doi.org/10.18653/v1/2023.findings-acl.401)
 
+    [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation](https://arxiv.org/abs/2311.04177)
+
+    [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Service](https://arxiv.org/pdf/2309.11325.pdf）
+
   - Fact verification
 
     [CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86)
@@ -385,6 +397,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage](https://doi.org/10.48550/arXiv.2208.03188)
 
     [A Model of Cross-Lingual Knowledge-Grounded Response Generation for Open-Domain Dialogue Systems](https://doi.org/10.18653/v1/2021.findings-emnlp.33)
+
+    [From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL](https://openreview.net/forum?id=KLPLCXo4aD)
 
     
 
