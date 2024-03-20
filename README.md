@@ -400,6 +400,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL](https://openreview.net/forum?id=KLPLCXo4aD)
 
+    [Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages](https://aclanthology.org/2023.findings-acl.528/)
+
     
 
   - Neural Machine Translation
