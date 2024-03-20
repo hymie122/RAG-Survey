@@ -176,6 +176,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
 
+      [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://openreview.net/forum?id=vDvFT7IX4O)
+
   - Retriever Enhancement
     
     - Recursive Retrieve
@@ -183,6 +185,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Query Expansion by Prompting Large Language Models](https://doi.org/10.48550/arXiv.2305.03653)
 
       [Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search](https://aclanthology.org/2023.findings-emnlp.86)
+      
+      [ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/abs/2402.13547)
+
+      
       
     - Chunk Optimization
 
@@ -219,6 +225,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT](https://doi.org/10.1109/ICSME55016.2022.00016)
 
       [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
+
+      [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884)
    
     - Re-ranking
 
@@ -229,6 +237,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)
 
       [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
+
+      [A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI Judge](https://arxiv.org/abs/2402.17081v1)
    
     - Meta-data Filtering
 
@@ -362,6 +372,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [KG-BART: Knowledge Graph-Augmented {BART} for Generative Commonsense Reasoning](https://doi.org/10.1609/aaai.v35i7.16796)
 
+    [What Evidence Do Language Models Find Convincing?](https://arxiv.org/abs/2402.11782v1)
+
   - Human-Machine Conversation
 
     [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://doi.org/10.18653/v1/2020.acl-main.184)
@@ -373,6 +385,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage](https://doi.org/10.48550/arXiv.2208.03188)
 
     [A Model of Cross-Lingual Knowledge-Grounded Response Generation for Open-Domain Dialogue Systems](https://doi.org/10.18653/v1/2021.findings-emnlp.33)
+
+    
 
   - Neural Machine Translation
 
@@ -391,6 +405,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training](https://doi.org/10.18653/v1/2022.findings-naacl.92)
 
     [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://doi.org/10.48550/arXiv.2305.01625)
+    
+    [Retrieval-based Full-length Wikipedia Generation for Emergent Events](https://arxiv.org/abs/2402.18264v1)
 
     [RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation](https://arxiv.org/abs/2312.10466)
 
