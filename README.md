@@ -626,6 +626,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/abs/10.1145/3584371.3612956)
 
+    [BioReader: a Retrieval-Enhanced Text-to-Text Transformer for Biomedical Literature](https://aclanthology.org/2022.emnlp-main.390/)
+
 ## Benchmark
   [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://doi.org/10.48550/arXiv.2309.01431)
   
