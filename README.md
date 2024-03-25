@@ -618,8 +618,6 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [Prompt-based 3d molecular diffusion models for structure-based drug design](https://openreview.net/forum?id=FWsGuAFn3n)
     
-    [A protein-ligand interaction- focused 3d molecular generative framework for generalizable structure- based drug design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
-    
   - Medical Applications
 
     [PoET: A generative model of protein families as sequences-of-sequences](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4366126eba252699b280e8f93c0ab2f-Abstract-Conference.html)
@@ -627,6 +625,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieval-augmented large language models for adolescent idiopathic scoliosis patients in shared decision-making](https://dl.acm.org/doi/abs/10.1145/3584371.3612956)
 
     [BioReader: a Retrieval-Enhanced Text-to-Text Transformer for Biomedical Literature](https://aclanthology.org/2022.emnlp-main.390/)
+
+    [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://arxiv.org/abs/2106.06471)
 
 ## Benchmark
   [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://doi.org/10.48550/arXiv.2309.01431)
