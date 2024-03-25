@@ -628,7 +628,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://arxiv.org/abs/2106.06471)
 
-  - Theorem Proving
+  - Math Applications
 
     [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
 
