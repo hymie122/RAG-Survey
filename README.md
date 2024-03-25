@@ -630,6 +630,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Math Applications
 
+    [Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference](https://arxiv.org/abs/2310.03184)
+
     [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
 
 ## Benchmark
