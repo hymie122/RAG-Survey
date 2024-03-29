@@ -477,11 +477,27 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
 
+    [Context-aware Retrieval-based Deep Commit Message Generation](https://dl.acm.org/doi/abs/10.1145/3464689?casa_token=DVOXAmaMSXEAAAAA:iPPxWMoTezuKvAwU1rxfO36B4qlqa2ZBzoeAm9HIB45txBx-ZBzLTs4pAHuZLLKX9a6dzrXq6-AkGg)
+
     [RACE: Retrieval-augmented Commit Message Generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
 
     [BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT](https://doi.org/10.1109/ICSME55016.2022.00016)
 
+    [Retrieval-Based Transformer Pseudocode Generation](https://www.mdpi.com/2227-7390/10/4/604)
+
+    [A Simple Retrieval-based Method for Code Comment Generation](https://ieeexplore.ieee.org/abstract/document/9825803)
+
+    [READSUM: Retrieval-Augmented Adaptive Transformer for Source Code Summarization](https://ieeexplore.ieee.org/abstract/document/10113620)
+
+    [Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization](https://arxiv.org/abs/2305.11074)
+
     [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://arxiv.org/abs/2304.06815)
+
+    [Cross-Modal Retrieval-Enhanced Code Summarization based on Joint Learning for Retrieval and Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724884)
+
+    [Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning](https://www.sciencedirect.com/science/article/pii/S0950584924000107)
+
+    [UniLog: Automatic Logging via LLM and In-Context Learning](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)
 
   - Code Completion
 
