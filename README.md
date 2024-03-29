@@ -435,6 +435,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Code
   - Code Generation
 
+    [Retrieval-Based Neural Code Generation](https://doi.org/10.18653/v1/d18-1111)
+
     [Retrieval Augmented Code Generation and Summarization](https://doi.org/10.18653/v1/2021.findings-emnlp.232)
 
     [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
@@ -447,11 +449,23 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)
 
-    [Retrieval-Based Neural Code Generation](https://doi.org/10.18653/v1/d18-1111)
-
     [Syntax-Aware Retrieval Augmented Code Generation](https://aclanthology.org/2023.findings-emnlp.90)
 
-    [The impact of lexical and grammatical processing on generating code from natural language](https://doi.org/10.18653/v1/2022.findings-acl.173)
+    [A^3-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware](https://arxiv.org/abs/2312.05772)
+
+    [SkCoder: A Sketch-based Approach for Automatic Code Generation](https://ieeexplore.ieee.org/abstract/document/10172719)
+
+    [CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation](https://ieeexplore.ieee.org/abstract/document/10298327)
+
+    [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032)
+
+    [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges](https://arxiv.org/abs/2401.07339)
+
+    [RRGcode: Deep hierarchical search-based code generation](https://www.sciencedirect.com/science/article/pii/S0164121224000256)
+
+    [Code Search Is All You Need? Improving Code Suggestions with Code Search](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a857/1V5BkjI3196)
+
+    [ARKS: Active Retrieval in Knowledge Soup for Code Generation](https://arxiv.org/abs/2402.12317)
 
   - Code Summary
 
