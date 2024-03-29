@@ -677,13 +677,105 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [ReTraCk: A Flexible and Efficient Framework for Knowledge Base Question Answering](https://doi.org/10.18653/v1/2021.acl-demo.39)
 
+    [Unseen Entity Handling in Complex Question Answering over Knowledge Base via Language Generation](https://aclanthology.org/2021.findings-emnlp.50/)
+
     [Case-based Reasoning for Natural Language Queries over Knowledge Bases](https://doi.org/10.18653/v1/2021.emnlp-main.755)
 
     [Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases](https://aclanthology.org/2022.coling-1.145)
 
-  - Knowledge Graph Completion
+    [Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database](https://aclanthology.org/2022.emnlp-main.605/)
+
+    [RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering](https://aclanthology.org/2022.acl-long.417/)
+
+    [TIARA: Multi-grained Retrieval for Robust Question Answering over Large Knowledge Base](https://aclanthology.org/2022.emnlp-main.555/)
+
+    [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/forum?id=XHc5zRPxqV9)
+
+    [End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion](https://aclanthology.org/2023.eacl-main.255/)
+
+    [Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA](https://dl.acm.org/doi/abs/10.1145/3583780.3615150)
+
+    [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/abs/2308.13259)
+
+    [Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning](https://arxiv.org/abs/2311.08894)
+
+    [FC-KBQA: A Fine-to-Coarse Composition Framework for Knowledge Base Question Answering](https://aclanthology.org/2023.acl-long.57/)
+
+    [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering](https://aclanthology.org/2023.nlrse-1.7/)
+
+    [Knowledge Graph-augmented Language Models for Complex Question Answering](https://aclanthology.org/2023.nlrse-1.1/)
+
+    [Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering](https://arxiv.org/abs/2309.11206)
+
+    [Distribution Shifts Are Bottlenecks: Extensive Evaluation for Grounding Language Models to Knowledge Bases](https://aclanthology.org/2024.eacl-srw.7/)
+
+    [Probing Structured Semantics Understanding and Generation of Language Models via Question Answering](https://arxiv.org/abs/2401.05777)
+
+    [Keqing: Knowledge-based Question Answering is A Nature Chain-of-Thought mentor of LLMs](https://arxiv.org/abs/2401.00426)
+
+    [Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models](https://arxiv.org/abs/2402.15131)
+
+  - Knowledge-augmented Open-domain Question Answering
+
+    [UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering](https://aclanthology.org/2022.findings-naacl.115/)
+
+    [KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering](https://aclanthology.org/2022.acl-long.340/)
+
+    [Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering](https://aclanthology.org/2022.emnlp-main.650/)
+
+    [Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering](https://aclanthology.org/2022.findings-emnlp.13/)
+
+    [Enhancing Multi-modal Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation](https://dl.acm.org/doi/abs/10.1145/3581783.3611964)
+
+    [DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text](https://arxiv.org/abs/2310.20170)
+
+    [KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases](https://arxiv.org/abs/2308.11761)
+
+    [Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering](https://arxiv.org/abs/2403.02966)
+
+    [Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models](https://arxiv.org/abs/2402.16568)
+
+    [KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph](https://arxiv.org/abs/2312.15880)
+
+  - Table Question Answering
+
+    [NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned](https://proceedings.mlr.press/v133/min21a.html)
+
+    [Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering](https://aclanthology.org/2021.acl-long.315/)
+
+    [End-to-End Table Question Answering via Retrieval-Augmented Generation](https://arxiv.org/abs/2203.16714)
+
+    [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://aclanthology.org/2022.naacl-main.68/)
+
+    [Reasoning over Hybrid Chain for Table-and-Text Open Domain Question Answering](https://www.ijcai.org/proceedings/2022/0629.pdf)
+
+    [Conversational Question Answering on Heterogeneous Sources](https://dl.acm.org/doi/abs/10.1145/3477495.3531815)
+
+    [Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge](https://aclanthology.org/2022.findings-emnlp.392/)
+
+    [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://aclanthology.org/2023.emnlp-main.574/)
+
+    [cTBLS: Augmenting Large Language Models with Conversational Tables](https://aclanthology.org/2023.nlp4convai-1.6/)
+
+    [RINK: Reader-Inherited Evidence Reranker for Table-and-Text Open Domain Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/26577)
+
+    [Localize, Retrieve and Fuse: A Generalized Framework for Free-Form Question Answering over Tables](https://aclanthology.org/2023.findings-ijcnlp.1/)
+
+    [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869)
+
+  - Others
+
+    [Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues](https://aclanthology.org/2020.findings-emnlp.126/)
+
+    [Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2305.18846)
+
+    [RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding](https://aclanthology.org/2023.findings-acl.275/)
 
     [Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion](https://doi.org/10.1145/3539618.3592052)
+
+    [Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion](https://arxiv.org/abs/2311.06318)
+
+    [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 
 ### RAG for Science
   - Drug Discovery
