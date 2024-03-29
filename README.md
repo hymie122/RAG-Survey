@@ -333,7 +333,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
    
     - Iterative RAG
    
-      [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151)
+      [RepoCoder: Repository-Level  Through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151)
 
       [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620)
     
@@ -477,7 +477,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
 
-    [Context-aware Retrieval-based Deep Commit Message Generation](https://dl.acm.org/doi/abs/10.1145/3464689?casa_token=DVOXAmaMSXEAAAAA:iPPxWMoTezuKvAwU1rxfO36B4qlqa2ZBzoeAm9HIB45txBx-ZBzLTs4pAHuZLLKX9a6dzrXq6-AkGg)
+    [Context-aware Retrieval-based Deep Commit Message Generation](https://dl.acm.org/doi/abs/10.1145/3464689)
 
     [RACE: Retrieval-augmented Commit Message Generation](https://doi.org/10.18653/v1/2022.emnlp-main.372)
 
@@ -501,11 +501,25 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Code Completion
 
+    [A Retrieve-and-Edit Framework for Predicting Structured Outputs](https://proceedings.neurips.cc/paper_files/paper/2018/hash/cd17d3ce3b64f227987cd92cd701cc58-Abstract.html)
+
+    [Generating Code with the Help of Retrieved Template Functions and Stack Overflow Answers](https://arxiv.org/abs/2104.05310)
+
     [ReACC: A Retrieval-Augmented Code Completion Framework](https://doi.org/10.18653/v1/2022.acl-long.431)
+
+    [Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases](https://ieeexplore.ieee.org/abstract/document/10298575)
 
     [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://aclanthology.org/2023.emnlp-main.151)
 
     [CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context](https://doi.org/10.48550/arXiv.2212.10007)
+
+    [RepoFusion: Training Code Models to Understand Your Repository](https://arxiv.org/abs/2306.10998)
+
+    [Revisiting and Improving Retrieval-Augmented Deep Assertion Generation](https://ieeexplore.ieee.org/abstract/document/10298588)
+
+    [De-Hallucinator: Iterative Grounding for LLM-Based Code Completion](https://arxiv.org/abs/2401.01701)
+
+    [REPOFUSE: Repository-Level Code Completion with Fused Dual Context](https://arxiv.org/abs/2402.14323)
 
   - Automatic Program Repair
 
@@ -515,17 +529,47 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [InferFix: End-to-End Program Repair with LLMs](https://doi.org/10.1145/3611643.3613892)
 
+    [RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair](https://dl.acm.org/doi/abs/10.1145/3611643.3616256)
+
+    [Automated Code Editing with Search-Generate-Modify](https://arxiv.org/abs/2306.06490)
+
+    [RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models](https://arxiv.org/abs/2311.16543)
+
   - Text-to-SQL and Code-based Semantic Parsing
 
     [XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing](https://doi.org/10.18653/v1/2022.findings-emnlp.384)
 
     [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
 
+    [Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing](https://aclanthology.org/2022.emnlp-main.624/)
+
+    [RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL](https://ojs.aaai.org/index.php/AAAI/article/view/26535)
+
     [Leveraging Code to Improve In-context Learning for Semantic Parsing](https://arxiv.org/abs/2311.09519)
+
+    [ReFSQL: A Retrieval-Augmentation Framework for Text-to-SQL Generation](https://aclanthology.org/2023.findings-emnlp.48/)
+
+    [Enhancing Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://aclanthology.org/2023.findings-emnlp.996/)
+
+    [Selective Demonstrations for Cross-domain Text-to-SQL](https://aclanthology.org/2023.findings-emnlp.944/)
+
+    [Multi-Hop Table Retrieval for Open-Domain Text-to-SQL](https://arxiv.org/abs/2402.10666)
+
+    [CodeS: Towards Building Open-source Language Models for Text-to-SQL](https://arxiv.org/abs/2402.16347)
 
   - Others
 
+    [De-fine: Decomposing and Refining Visual Programs with Auto-Feedback](https://arxiv.org/abs/2311.12890)
+
     [Leveraging training data in few-shot prompting for numerical reasoning](https://arxiv.org/abs/2305.18170)
+
+    [Retrieval-Augmented Code Generation for Universal Information Extraction](https://arxiv.org/abs/2311.02962)
+
+    [E&V: Prompting Large Language Models to Perform Static Analysis by Pseudo-code Execution and Verification](https://arxiv.org/abs/2312.08477)
+
+    [Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant](https://arxiv.org/abs/2311.18450)
+
+    [Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model](https://arxiv.org/abs/2310.15657)
 
 ### RAG for Audio
   - Audio Generation
