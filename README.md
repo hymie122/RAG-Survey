@@ -281,7 +281,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       
       [Gar-meets-rag paradigm for zero-shot information retrieval](https://arxiv.org/abs/2310.20158)
    
-    -Others
+    - Others
 
       [PineCone](https://www.pinecone.io)
     
