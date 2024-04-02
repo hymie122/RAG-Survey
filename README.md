@@ -169,12 +169,17 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       
       [Query2doc: Query Expansion with Large Language Models](https://aclanthology.org/2023.emnlp-main.585)
 
+      [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://openreview.net/forum?id=vDvFT7IX4O)
+
       [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://doi.org/10.18653/v1/2023.acl-long.99)
+      
     - Data Augmentation
+   
+      [LESS: selecting influential data for targeted instruction tuning](https://arxiv.org/abs/2402.04333)
 
       [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
 
-      [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://openreview.net/forum?id=vDvFT7IX4O)
+      
 
   - Retriever Enhancement
     
@@ -182,11 +187,30 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [Query Expansion by Prompting Large Language Models](https://doi.org/10.48550/arXiv.2305.03653)
 
+      [Rat: Retrieval augmented thoughts elicit context-aware reasoning in long-horizon generation](https://arxiv.org/abs/2403.05313)
+
+      [React: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629)
+
+      [Chain-of-thought prompting elicits reasoning in large language models](https://arxiv.org/abs/2201.11903)
+
+  
+      []()
+      []()
+      []()
+      []()
+      []()
+      []()
+  
+
       [Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search](https://aclanthology.org/2023.findings-emnlp.86)
       
       [ACTIVERAG: Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/abs/2402.13547)
 
       [Retrieval-Augmented Thought Process as Sequential Decision Making](https://arxiv.org/abs/2402.07812)
+
+      [In search of needles in a 10m haystack: Recurrent memory finds what llms miss](https://arxiv.org/abs/2402.10790v1)
+      
+      [Lost in the middle: How language models use long contexts](https://arxiv.org/abs/2307.03172)
 
       
       
@@ -215,6 +239,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
 
       [Retrieval Augmented Convolutional Encoder-decoder Networks for Video Captioning](https://doi.org/10.1145/3539225)
+
+      [Reinforcement learning for optimizing RAG for domain chatbots](https://arxiv.org/abs/2401.06800)
    
     - Hybrid Retrieve
 
@@ -229,6 +255,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
 
       [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884)
+
+      [Retrieval augmented generation with rich answer encoding](https://aclanthology.org/2023.ijcnlp-main.65.pdf)
+
+      [Unims-rag: A unified multi-source retrieval-augmented generation for personalized dialogue systems](https://arxiv.org/abs/2401.13256)
    
     - Re-ranking
 
