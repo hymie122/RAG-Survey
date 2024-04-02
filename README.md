@@ -321,17 +321,20 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
 
-      [A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937)
    
     - Finetune Generator
    
       [Improving Language Models by Retrieving from Trillions of Tokens](https://proceedings.mlr.press/v162/borgeaud22a.html)
 
       [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
+   
+      [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
 
       [Concept-Aware Video Captioning: Describing Videos With Effective Prior Information](https://doi.org/10.1109/TIP.2023.3307969)
 
       [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
+   
+      [Lora: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685)
 
       [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
    
@@ -355,6 +358,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
         [Efficient Nearest Neighbor Language Models](https://doi.org/10.18653/v1/2021.emnlp-main.461)
 
+        [Generalization through Memorization: Nearest Neighbor Language Models](https://arxiv.org/abs/1911.00172)
+
+        [Nonparametric masked language modeling](https://arxiv.org/abs/2212.01349)
+
         [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://doi.org/10.18653/v1/2023.acl-long.546)
 
         [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://doi.org/10.1162/tacl\_a\_00407)
@@ -368,6 +375,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
         [Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation](https://doi.org/10.48550/arXiv.2307.11019)
 
         [Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://aclanthology.org/2023.findings-emnlp.691)
+     
+        [Retrieve only when it needs: Adaptive retrieval augmentation for hallucination mitigation in large language models](https://arxiv.org/abs/2402.10612)
+
+        [Adaptive-rag: Learning to adapt retrieval-augmented large language models through question complexity](https://arxiv.org/abs/2403.14403)
    
     - Iterative RAG
    
@@ -375,7 +386,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy](https://aclanthology.org/2023.findings-emnlp.620)
     
-    
+      [Knowledge graph based synthetic corpus generation for knowledge-enhanced language model pre-training](https://arxiv.org/abs/2010.12688)
 
 
 ## Applications Taxonomy
