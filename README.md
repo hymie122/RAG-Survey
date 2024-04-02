@@ -194,12 +194,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Chain-of-thought prompting elicits reasoning in large language models](https://arxiv.org/abs/2201.11903)
 
   
-      []()
-      []()
-      []()
-      []()
-      []()
-      []()
+
   
 
       [Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search](https://aclanthology.org/2023.findings-emnlp.86)
@@ -275,10 +270,25 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers](https://arxiv.org/pdf/2303.00807.pdf)
 
       [Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/pdf/2307.07164.pdf)
+
+
+
+    - Retrieval Transformation
+
+      [Learning to filter context for retrieval-augmented generation](https://arxiv.org/abs/2311.08377)
+      
+      [Fid-light: Efficient and effective retrieval-augmented text generation](https://arxiv.org/abs/2209.14290)
+      
+      [Gar-meets-rag paradigm for zero-shot information retrieval](https://arxiv.org/abs/2310.20158)
    
-    - Meta-data Filtering
+    -Others
 
       [PineCone](https://www.pinecone.io)
+    
+      [Generate rather than retrieve: Large language models are strong context generators](https://arxiv.org/abs/2209.10063)
+    
+      [Generator-retriever-generator: A novel approach to open-domain question answering](https://arxiv.org/abs/2307.11278)
+    
   - Generator Enhancement
 
     - Prompt Engineering
