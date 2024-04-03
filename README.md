@@ -861,16 +861,14 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
 
 
-## Citing
+## Citation
 if you find this work useful, please cite our paper:
 ```
-@misc{zhao2024retrievalaugmented,
-      title={Retrieval-Augmented Generation for AI-Generated Content: A Survey}, 
-      author={Penghao Zhao and Hailin Zhang and Qinhan Yu and Zhengren Wang and Yunteng Geng and Fangcheng Fu and Ling Yang and Wentao Zhang and Bin Cui},
-      year={2024},
-      eprint={2402.19473},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhao2024retrieval,
+  title={Retrieval-Augmented Generation for AI-Generated Content: A Survey},
+  author={Zhao, Penghao and Zhang, Hailin and Yu, Qinhan and Wang, Zhengren and Geng, Yunteng and Fu, Fangcheng and Yang, Ling and Zhang, Wentao and Cui, Bin},
+  journal={arXiv preprint arXiv:2402.19473},
+  year={2024}
 }
 ```
 
