@@ -664,6 +664,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [X&Fuse: Fusing Visual Information in Text-to-Image Generation](https://arxiv.org/abs/2303.01000)
 
+    [Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
+
   - Image Captioning
 
     [Memory-augmented image captioning](https://ojs.aaai.org/index.php/AAAI/article/view/16220)
