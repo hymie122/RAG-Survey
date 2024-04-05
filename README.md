@@ -229,7 +229,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
       [When Language Model Meets Private Library](https://doi.org/10.18653/v1/2022.findings-emnlp.21)
 
-      [EditSum: {A} Retrieve-and-Edit Framework for Source Code Summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
+      [EditSum: A Retrieve-and-Edit Framework for Source Code Summarization](https://doi.org/10.1109/ASE51524.2021.9678724)
 
       [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
 
@@ -627,15 +627,23 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
 
-    [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
+    [Make-an-audio: Text-to-audio generation with prompt-enhanced diffusion models](https://proceedings.mlr.press/v202/huang23i.html)
 
   - Audio Captioning
 
     [RECAP: Retrieval-Augmented Audio Captioning](https://doi.org/10.48550/arXiv.2309.09836)
 
+    [Audio Captioning using Pre-Trained Large-Scale Language Model Guided by Audio-based Similar Caption Retrieval](https://arxiv.org/abs/2012.07331)
+
     [Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation](https://doi.org/10.1109/ICASSP49357.2023.10095969)
 
     [CNN architectures for large-scale audio classification](https://doi.org/10.1109/ICASSP.2017.7952132)
+
+    [Natural language supervision for general-purpose audio representations](https://ieeexplore.ieee.org/abstract/document/10448504)
+
+    [Weakly-supervised Automated Audio Captioning via text only training](https://arxiv.org/abs/2309.12242)
+
+    [Training Audio Captioning Models without Audio](https://ieeexplore.ieee.org/abstract/document/10448115)
 
 ### RAG for Image
   - Image Generation
@@ -646,7 +654,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Memory-driven text-to-image generation](https://arxiv.org/abs/2208.07022)
 
-    [RE-IMAGEN: RETRIEVAL-AUGMENTED TEXT-TO-IMAGE GENERATOR](https://arxiv.org/abs/2209.14491)
+    [Re-imagen: Retrieval-augmented text-to-image generator](https://arxiv.org/abs/2209.14491)
 
     [KNN-Diffusion: Image Generation via Large-Scale Retrieval](https://arxiv.org/abs/2204.02849)
 
@@ -673,10 +681,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Cross-Modal Retrieval and Semantic Refinement for Remote Sensing Image Captioning](https://www.mdpi.com/2072-4292/16/1/196)
 
   - Others
+        
+    [An empirical study of gpt-3 for few-shot knowledge-based vqa](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
     
     [Retrieval augmented visual question answering with outside knowledge](https://aclanthology.org/2022.emnlp-main.772/)
-    
-    [An empirical study of gpt-3 for few-shot knowledge-based vqa](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
     
     [Augmenting transformers with KNN-based composite memory for dialog](https://doi.org/10.1162/tacl_a_00356)
     
@@ -688,29 +696,33 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 ### RAG for Video
   - Video Captioning
 
+    [Incorporating Background Knowledge into Video Description Generation](https://aclanthology.org/D18-1433/)
+
     [Retrieval Augmented Convolutional Encoder-decoder Networks for Video Captioning](https://doi.org/10.1145/3539225)
 
     [Concept-Aware Video Captioning: Describing Videos With Effective Prior Information](https://doi.org/10.1109/TIP.2023.3307969)
 
-  - Video Generation
+    [Retrieval-Augmented Egocentric Video Captioning](https://arxiv.org/abs/2401.00789)
 
-    [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
-
-    [Frozen in Time: {A} Joint Video and Image Encoder for End-to-End Retrieval](https://doi.org/10.1109/ICCV48922.2021.00175)
-
-  - Others
+  - Video QA&Dialogue
 
     [Memory augmented deep recurrent neural network for video question answering](https://doi.org/10.1109/TNNLS.2019.2938015)
 
     [Retrieving-to-answer: Zero-shot video question answering with frozen large language models](https://openaccess.thecvf.com/content/ICCV2023W/MMFM/html/Pan_Retrieving-to-Answer_Zero-Shot_Video_Question_Answering_with_Frozen_Large_Language_Models_ICCVW_2023_paper.html)
-    
+
     [Tvqa+: Spatio-temporal grounding for video question answering](https://aclanthology.org/2020.acl-main.730/)
-    
+
     [Vgnmn: Video-grounded neural module networks for video-grounded dialogue systems](https://aclanthology.org/2022.naacl-main.247/)
-    
+
+  - Others
+
     [Language models with image descriptors are strong few-shot video-language learners](https://proceedings.neurips.cc/paper_files/paper/2022/hash/381ceeae4a1feb1abc59c773f7e61839-Abstract-Conference.html)
     
     [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
+
+    [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://doi.org/10.48550/arXiv.2307.06940)
+
+    [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://doi.org/10.1109/ICCV48922.2021.00175)
 
 ### RAG for 3D
   - Text-to-3D
