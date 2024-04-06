@@ -857,6 +857,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://arxiv.org/abs/2106.06471)
 
+    [From RAG to QA-RAG: Integrating Generative AI for Pharmaceutical Regulatory Compliance Process](https://arxiv.org/abs/2402.01717)
+
   - Math Applications
 
     [Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference](https://arxiv.org/abs/2310.03184)
