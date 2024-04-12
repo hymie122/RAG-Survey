@@ -393,7 +393,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/Applications.png">
   
 ### RAG for Text
-  - Qusetion Answering
+  - Question Answering
 
     [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://doi.org/10.18653/v1/2021.eacl-main.74)
 
