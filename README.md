@@ -455,7 +455,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Citation-Enhanced Generation for LLM-based Chatbot](https://arxiv.org/pdf/2402.16063v1.pdf)
 
-    
+    [KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants](https://aclanthology.org/2024.scichat-1.5/)
 
     
 
