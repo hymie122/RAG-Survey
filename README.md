@@ -391,6 +391,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
 ## Applications Taxonomy
 <div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/Applications.png">
+<div aligncenter><img width="900" alt="image" src="https://github.com/hymie122/RAG-Survey/blob/main/RAG_Applications.png">
   
 ### RAG for Text
   - Question Answering
