@@ -172,12 +172,18 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://openreview.net/forum?id=vDvFT7IX4O)
 
       [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://doi.org/10.18653/v1/2023.acl-long.99)
+
+      [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](https://arxiv.org/pdf/2404.00610)
+
+      [Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems](https://arxiv.org/pdf/2403.11413)
       
     - Data Augmentation
    
       [LESS: selecting influential data for targeted instruction tuning](https://arxiv.org/abs/2402.04333)
 
       [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://proceedings.mlr.press/v202/huang23i.html)
+
+      [Telco-RAG: Navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/pdf/2404.15939)
 
       
 
@@ -214,6 +220,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [LlamaIndex](https://github.com/jerryjliu/llama_index)
 
       [RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL](https://arxiv.org/pdf/2401.18059.pdf)
+
+      [Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented Generation in Niche Domains, Exemplified by Korean Medicine](https://arxiv.org/pdf/2401.11246)
+
+      [Question-Based Retrieval using Atomic Units for Enterprise RAG](https://arxiv.org/pdf/2405.12363)
       
     - Finetune Retriever
 
@@ -254,6 +264,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Retrieval augmented generation with rich answer encoding](https://aclanthology.org/2023.ijcnlp-main.65.pdf)
 
       [Unims-rag: A unified multi-source retrieval-augmented generation for personalized dialogue systems](https://arxiv.org/abs/2401.13256)
+
+      [You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval](https://arxiv.org/pdf/2403.07222v1)
+
+      [Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy with Semantic Search and Hybrid Query-Based Retrievers](https://arxiv.org/pdf/2404.07220)
    
     - Re-ranking
 
@@ -270,6 +284,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers](https://arxiv.org/pdf/2303.00807.pdf)
 
       [Learning to Retrieve In-Context Examples for Large Language Models](https://arxiv.org/pdf/2307.07164.pdf)
+
+      [The Chronicles of RAG: The Retriever, the Chunk and the Generator](https://arxiv.org/pdf/2401.07883.pdf)
+
+      [Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A Case Study on Domain-Specific Queries in Private Knowledge-Bases](https://arxiv.org/pdf/2403.10446)
 
 
 
@@ -288,6 +306,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Generate rather than retrieve: Large language models are strong context generators](https://arxiv.org/abs/2209.10063)
     
       [Generator-retriever-generator: A novel approach to open-domain question answering](https://arxiv.org/abs/2307.11278)
+
+      [Multi-Head RAG: Solving Multi-Aspect Problems with LLMs](https://arxiv.org/pdf/2406.05085)
     
   - Generator Enhancement
 
@@ -430,6 +450,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86)
 
+    [Stochastic RAG: End-to-End Retrieval-Augmented Generation through Expected Utility Maximization](https://arxiv.org/pdf/2405.02816)
+
   - Commonsense Reasoning
 
     [KG-BART: Knowledge Graph-Augmented {BART} for Generative Commonsense Reasoning](https://doi.org/10.1609/aaai.v35i7.16796)
@@ -481,6 +503,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieval-based Full-length Wikipedia Generation for Emergent Events](https://arxiv.org/abs/2402.18264v1)
 
     [RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation](https://arxiv.org/abs/2312.10466)
+
+    [M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions](https://arxiv.org/pdf/2405.16420)
 
 ### RAG for Code
   - Code Generation
@@ -801,6 +825,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph](https://arxiv.org/abs/2312.15880)
 
+    [GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning](https://arxiv.org/pdf/2405.20139)
+
   - Table Question Answering
 
     [NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned](https://proceedings.mlr.press/v133/min21a.html)
@@ -827,6 +853,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Exploring the Impact of Table-to-Text Methods on Augmenting LLM-based Question Answering with Domain Hybrid Data](https://arxiv.org/abs/2402.12869)
 
+    [ERATTA: Extreme RAG for Table To Answers with Large Language Models](https://arxiv.org/pdf/2405.03963)
+
   - Others
 
     [Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues](https://aclanthology.org/2020.findings-emnlp.126/)
@@ -841,6 +869,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 
+    [RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models](https://arxiv.org/pdf/2405.00449)
+
+    [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/pdf/2405.14831)
+
 ### RAG for Science
   - Drug Discovery
     
@@ -848,7 +880,7 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     
     [Prompt-based 3d molecular diffusion models for structure-based drug design](https://openreview.net/forum?id=FWsGuAFn3n)
     
-  - Medical Applications
+  - Biomedical Informatics Enhancement
 
     [PoET: A generative model of protein families as sequences-of-sequences](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4366126eba252699b280e8f93c0ab2f-Abstract-Conference.html)
     
@@ -859,6 +891,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://arxiv.org/abs/2106.06471)
 
     [From RAG to QA-RAG: Integrating Generative AI for Pharmaceutical Regulatory Compliance Process](https://arxiv.org/abs/2402.01717)
+
+    [RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented Generation and Readability Control for Layman Summarization of Biomedical Texts](https://arxiv.org/pdf/2405.13179)
 
   - Math Applications
 
