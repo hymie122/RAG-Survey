@@ -627,6 +627,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
     [Selective Demonstrations for Cross-domain Text-to-SQL](https://aclanthology.org/2023.findings-emnlp.944/)
 
+    [DBCopilot: Scaling Natural Language Querying to Massive Databases via Schema Routing](https://arxiv.org/abs/2312.03463)
+
     [Multi-Hop Table Retrieval for Open-Domain Text-to-SQL](https://arxiv.org/abs/2402.10666)
 
     [CodeS: Towards Building Open-source Language Models for Text-to-SQL](https://arxiv.org/abs/2402.16347)
