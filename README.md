@@ -911,6 +911,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
   
   [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://doi.org/10.48550/arXiv.2309.15217)
 
+  [WFGY Problem Map: A 16-problem taxonomy for diagnosing RAG pipeline failures](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
+
   [KILT: a Benchmark for Knowledge Intensive Language Tasks](https://arxiv.org/abs/2009.02252)
 
 
