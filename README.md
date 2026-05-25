@@ -399,6 +399,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
         [Retrieve only when it needs: Adaptive retrieval augmentation for hallucination mitigation in large language models](https://arxiv.org/abs/2402.10612)
 
         [Adaptive-rag: Learning to adapt retrieval-augmented large language models through question complexity](https://arxiv.org/abs/2403.14403)
+
+        [QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation](https://arxiv.org/abs/2512.19134)
    
     - Iterative RAG
    
