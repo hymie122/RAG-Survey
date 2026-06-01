@@ -926,3 +926,4 @@ if you find this work useful, please cite our paper:
 ```
 
 
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools with crypto payment, no subscriptions.
