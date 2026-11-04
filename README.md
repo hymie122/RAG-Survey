@@ -176,6 +176,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation](https://arxiv.org/pdf/2404.00610)
 
       [Dynamic Contexts for Generating Suggestion Questions in RAG Based Conversational Systems](https://arxiv.org/pdf/2403.11413)
+
+      [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/)
       
     - Data Augmentation
    
@@ -357,6 +359,10 @@ This repo is constructed for collecting and categorizing papers about RAG accord
       [Lora: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685)
 
       [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://doi.org/10.48550/arXiv.2402.02972)
+
+      [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)
+
+      [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
    
   - Result Enhancement
 
