@@ -711,6 +711,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
 
   - Others
         
+    [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) (ICML 2026)
+
     [An empirical study of gpt-3 for few-shot knowledge-based vqa](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
     
     [Retrieval augmented visual question answering with outside knowledge](https://aclanthology.org/2022.emnlp-main.772/)
@@ -734,6 +736,8 @@ This repo is constructed for collecting and categorizing papers about RAG accord
     [Retrieval-Augmented Egocentric Video Captioning](https://arxiv.org/abs/2401.00789)
 
   - Video QA&Dialogue
+
+    [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) (ICML 2026)
 
     [Memory augmented deep recurrent neural network for video question answering](https://doi.org/10.1109/TNNLS.2019.2938015)
 
